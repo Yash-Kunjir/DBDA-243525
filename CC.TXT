@@ -1,4 +1,8 @@
 CLOUD COMPUTING
 IAAS
 PAAS
+this is platform as a service
+cloud provides infra and plarforms
+we have to install applications
+eg are windos  on cloud
 SAAS
